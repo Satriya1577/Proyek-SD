@@ -1,11 +1,8 @@
-// C++ Code
 #include <algorithm>
 #include <bits/stdc++.h>
 #include <map>
 #include <vector>
-
 using namespace std;
-
 void helper(int r,
             int c,
             vector<vector<char>> &sudoku,
