@@ -6,8 +6,6 @@
 
 using namespace std;
 
-// Input matrix
-
 void helper(int r,
             int c,
             vector<vector<char>> &sudoku,
